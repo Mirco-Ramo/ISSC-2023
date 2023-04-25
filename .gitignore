@@ -1,0 +1,7 @@
+/venv/
+/.idea/
+/models/notebooks/vanilla_transformer/.ipynb_checkpoints/
+*db
+*pt
+word_sources/*
+cache/*

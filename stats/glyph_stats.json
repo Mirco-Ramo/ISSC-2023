@@ -1,0 +1,2265 @@
+{
+    "!": {
+        "count": 287,
+        "duration": {
+            "min": 0.093,
+            "max": 1.694,
+            "std": 0.15825,
+            "var": 0.02504,
+            "mean": 0.4396
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.10218,
+            "var": 0.01044,
+            "mean": 1.99652
+        },
+        "num_of_touches": {
+            "min": 2,
+            "max": 44,
+            "std": 5.74254,
+            "var": 32.9768,
+            "mean": 13.73171
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.783,
+            "std": 0.06601,
+            "var": 0.00436,
+            "mean": 0.15957
+        }
+    },
+    "(": {
+        "count": 401,
+        "duration": {
+            "min": 0.102,
+            "max": 1.395,
+            "std": 0.16412,
+            "var": 0.02693,
+            "mean": 0.26029
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 7,
+            "max": 74,
+            "std": 8.86385,
+            "var": 78.56789,
+            "mean": 15.46384
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    ")": {
+        "count": 397,
+        "duration": {
+            "min": 0.126,
+            "max": 1.087,
+            "std": 0.12832,
+            "var": 0.01647,
+            "mean": 0.2686
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 8,
+            "max": 64,
+            "std": 7.20937,
+            "var": 51.975,
+            "mean": 15.58942
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    "*": {
+        "count": 302,
+        "duration": {
+            "min": 0.28,
+            "max": 1.155,
+            "std": 0.16802,
+            "var": 0.02823,
+            "mean": 0.53364
+        },
+        "num_of_strokes": {
+            "min": 2,
+            "max": 2,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 2.0
+        },
+        "num_of_touches": {
+            "min": 10,
+            "max": 47,
+            "std": 6.87221,
+            "var": 47.22733,
+            "mean": 21.55298
+        },
+        "strokes_delay": {
+            "min": 0.049,
+            "max": 0.619,
+            "std": 0.0688,
+            "var": 0.00473,
+            "mean": 0.16325
+        }
+    },
+    "+": {
+        "count": 499,
+        "duration": {
+            "min": 0.272,
+            "max": 1.486,
+            "std": 0.1396,
+            "var": 0.01949,
+            "mean": 0.44976
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.0773,
+            "var": 0.00598,
+            "mean": 1.99399
+        },
+        "num_of_touches": {
+            "min": 11,
+            "max": 63,
+            "std": 5.72109,
+            "var": 32.73082,
+            "mean": 17.75351
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.519,
+            "std": 0.05719,
+            "var": 0.00327,
+            "mean": 0.12902
+        }
+    },
+    ",": {
+        "count": 300,
+        "duration": {
+            "min": 0.055,
+            "max": 0.689,
+            "std": 0.06657,
+            "var": 0.00443,
+            "mean": 0.15517
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 4,
+            "max": 39,
+            "std": 3.41562,
+            "var": 11.66649,
+            "mean": 8.65333
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    "-": {
+        "count": 402,
+        "duration": {
+            "min": 0.07,
+            "max": 0.722,
+            "std": 0.05161,
+            "var": 0.00266,
+            "mean": 0.15102
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 4,
+            "max": 38,
+            "std": 2.81267,
+            "var": 7.9111,
+            "mean": 8.42537
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    ".": {
+        "count": 378,
+        "duration": {
+            "min": 0.037,
+            "max": 0.54,
+            "std": 0.03733,
+            "var": 0.00139,
+            "mean": 0.08733
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 2,
+            "max": 30,
+            "std": 2.02922,
+            "var": 4.11772,
+            "mean": 2.6455
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    "/": {
+        "count": 390,
+        "duration": {
+            "min": 0.421,
+            "max": 3.519,
+            "std": 0.23466,
+            "var": 0.05507,
+            "mean": 0.67334
+        },
+        "num_of_strokes": {
+            "min": 3,
+            "max": 4,
+            "std": 0.05057,
+            "var": 0.00256,
+            "mean": 3.00256
+        },
+        "num_of_touches": {
+            "min": 9,
+            "max": 130,
+            "std": 8.28955,
+            "var": 68.71664,
+            "mean": 17.09487
+        },
+        "strokes_delay": {
+            "min": 0.049,
+            "max": 0.554,
+            "std": 0.05397,
+            "var": 0.00291,
+            "mean": 0.15044
+        }
+    },
+    "0": {
+        "count": 2016,
+        "duration": {
+            "min": 0.231073,
+            "max": 1.916598,
+            "std": 0.20957,
+            "var": 0.04392,
+            "mean": 0.54218
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 4,
+            "std": 0.14665,
+            "var": 0.02151,
+            "mean": 1.01786
+        },
+        "num_of_touches": {
+            "min": 16,
+            "max": 116,
+            "std": 12.16982,
+            "var": 148.10461,
+            "mean": 34.32589
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.466015,
+            "std": 0.02556,
+            "var": 0.00065,
+            "mean": 0.00283
+        }
+    },
+    "1": {
+        "count": 2396,
+        "duration": {
+            "min": 0.033206,
+            "max": 2.097781,
+            "std": 0.21349,
+            "var": 0.04558,
+            "mean": 0.23861
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 4,
+            "std": 0.36971,
+            "var": 0.13668,
+            "mean": 1.10518
+        },
+        "num_of_touches": {
+            "min": 4,
+            "max": 114,
+            "std": 10.84624,
+            "var": 117.64101,
+            "mean": 15.04633
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.315618,
+            "std": 0.04287,
+            "var": 0.00184,
+            "mean": 0.01328
+        }
+    },
+    "2": {
+        "count": 2407,
+        "duration": {
+            "min": 0.16668,
+            "max": 1.666671,
+            "std": 0.18369,
+            "var": 0.03374,
+            "mean": 0.50293
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.09537,
+            "var": 0.0091,
+            "mean": 1.00665
+        },
+        "num_of_touches": {
+            "min": 12,
+            "max": 89,
+            "std": 10.90597,
+            "var": 118.94027,
+            "mean": 31.37682
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.365429,
+            "std": 0.01499,
+            "var": 0.00022,
+            "mean": 0.00099
+        }
+    },
+    "3": {
+        "count": 2302,
+        "duration": {
+            "min": 0.266004,
+            "max": 1.916284,
+            "std": 0.17762,
+            "var": 0.03155,
+            "mean": 0.58851
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.08569,
+            "var": 0.00734,
+            "mean": 1.00652
+        },
+        "num_of_touches": {
+            "min": 18,
+            "max": 110,
+            "std": 10.34143,
+            "var": 106.94509,
+            "mean": 36.4344
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.309775,
+            "std": 0.01358,
+            "var": 0.00018,
+            "mean": 0.00082
+        }
+    },
+    "4": {
+        "count": 2110,
+        "duration": {
+            "min": 0.211458,
+            "max": 2.316906,
+            "std": 0.19313,
+            "var": 0.0373,
+            "mean": 0.5603
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 4,
+            "std": 0.29081,
+            "var": 0.08457,
+            "mean": 1.9327
+        },
+        "num_of_touches": {
+            "min": 15,
+            "max": 101,
+            "std": 9.13827,
+            "var": 83.5079,
+            "mean": 30.67393
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.633086,
+            "std": 0.05662,
+            "var": 0.00321,
+            "mean": 0.10343
+        }
+    },
+    "5": {
+        "count": 2396,
+        "duration": {
+            "min": 0.233201,
+            "max": 2.902178,
+            "std": 0.24987,
+            "var": 0.06244,
+            "mean": 0.68323
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 5,
+            "std": 0.54894,
+            "var": 0.30133,
+            "mean": 1.47955
+        },
+        "num_of_touches": {
+            "min": 14,
+            "max": 112,
+            "std": 12.29148,
+            "var": 151.08044,
+            "mean": 39.59641
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.698909,
+            "std": 0.07759,
+            "var": 0.00602,
+            "mean": 0.05433
+        }
+    },
+    "6": {
+        "count": 2115,
+        "duration": {
+            "min": 0.233382,
+            "max": 1.814872,
+            "std": 0.1883,
+            "var": 0.03546,
+            "mean": 0.50485
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.10155,
+            "var": 0.01031,
+            "mean": 1.00946
+        },
+        "num_of_touches": {
+            "min": 15,
+            "max": 106,
+            "std": 10.95426,
+            "var": 119.99573,
+            "mean": 31.99669
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.49946,
+            "std": 0.0237,
+            "var": 0.00056,
+            "mean": 0.00186
+        }
+    },
+    "7": {
+        "count": 2115,
+        "duration": {
+            "min": 0.150153,
+            "max": 1.941938,
+            "std": 0.19331,
+            "var": 0.03737,
+            "mean": 0.4821
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.51349,
+            "var": 0.26367,
+            "mean": 1.62506
+        },
+        "num_of_touches": {
+            "min": 11,
+            "max": 83,
+            "std": 8.85784,
+            "var": 78.4614,
+            "mean": 28.0539
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.399461,
+            "std": 0.05943,
+            "var": 0.00353,
+            "mean": 0.05793
+        }
+    },
+    "8": {
+        "count": 2112,
+        "duration": {
+            "min": 0.315521,
+            "max": 3.181927,
+            "std": 0.28202,
+            "var": 0.07954,
+            "mean": 0.72645
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 4,
+            "std": 0.17259,
+            "var": 0.02979,
+            "mean": 1.02273
+        },
+        "num_of_touches": {
+            "min": 21,
+            "max": 175,
+            "std": 15.76007,
+            "var": 248.37971,
+            "mean": 44.97775
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.782404,
+            "std": 0.05525,
+            "var": 0.00305,
+            "mean": 0.00695
+        }
+    },
+    "9": {
+        "count": 2313,
+        "duration": {
+            "min": 0.249805,
+            "max": 2.466495,
+            "std": 0.24949,
+            "var": 0.06224,
+            "mean": 0.64981
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.20311,
+            "var": 0.04125,
+            "mean": 1.03934
+        },
+        "num_of_touches": {
+            "min": 17,
+            "max": 125,
+            "std": 13.53326,
+            "var": 183.14905,
+            "mean": 39.23822
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.733007,
+            "std": 0.05499,
+            "var": 0.00302,
+            "mean": 0.00964
+        }
+    },
+    "=": {
+        "count": 589,
+        "duration": {
+            "min": 0.264,
+            "max": 1.054,
+            "std": 0.11145,
+            "var": 0.01242,
+            "mean": 0.40398
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.04117,
+            "var": 0.00169,
+            "mean": 1.9983
+        },
+        "num_of_touches": {
+            "min": 8,
+            "max": 39,
+            "std": 4.0505,
+            "var": 16.40654,
+            "mean": 14.96944
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.596,
+            "std": 0.06087,
+            "var": 0.0037,
+            "mean": 0.12231
+        }
+    },
+    "?": {
+        "count": 295,
+        "duration": {
+            "min": 0.306,
+            "max": 2.909,
+            "std": 0.36751,
+            "var": 0.13506,
+            "mean": 0.68274
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.05812,
+            "var": 0.00338,
+            "mean": 1.99661
+        },
+        "num_of_touches": {
+            "min": 12,
+            "max": 134,
+            "std": 16.58508,
+            "var": 275.06491,
+            "mean": 28.30169
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.401,
+            "std": 0.05624,
+            "var": 0.00316,
+            "mean": 0.13907
+        }
+    },
+    "A": {
+        "count": 796,
+        "duration": {
+            "min": 0.251517,
+            "max": 4.646,
+            "std": 0.46381,
+            "var": 0.21512,
+            "mean": 0.86501
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.28655,
+            "var": 0.08211,
+            "mean": 2.08417
+        },
+        "num_of_touches": {
+            "min": 16,
+            "max": 200,
+            "std": 16.0883,
+            "var": 258.83353,
+            "mean": 32.6093
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.536459,
+            "std": 0.33655,
+            "var": 0.11327,
+            "mean": 0.34404
+        }
+    },
+    "B": {
+        "count": 495,
+        "duration": {
+            "min": 0.342596,
+            "max": 5.533301,
+            "std": 0.72148,
+            "var": 0.52054,
+            "mean": 1.0906
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.50664,
+            "var": 0.25668,
+            "mean": 1.57374
+        },
+        "num_of_touches": {
+            "min": 24,
+            "max": 212,
+            "std": 26.2288,
+            "var": 687.95003,
+            "mean": 48.46869
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 4.200003,
+            "std": 0.56485,
+            "var": 0.31906,
+            "mean": 0.30313
+        }
+    },
+    "C": {
+        "count": 500,
+        "duration": {
+            "min": 0.063826,
+            "max": 1.627,
+            "std": 0.22097,
+            "var": 0.04883,
+            "mean": 0.30318
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 7,
+            "max": 92,
+            "std": 11.9896,
+            "var": 143.75048,
+            "mean": 19.718
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    "D": {
+        "count": 649,
+        "duration": {
+            "min": 0.18686,
+            "max": 3.788,
+            "std": 0.45075,
+            "var": 0.20318,
+            "mean": 0.72367
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.4922,
+            "var": 0.24226,
+            "mean": 1.60401
+        },
+        "num_of_touches": {
+            "min": 15,
+            "max": 147,
+            "std": 16.97644,
+            "var": 288.19938,
+            "mean": 31.28197
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.473185,
+            "std": 0.3355,
+            "var": 0.11256,
+            "mean": 0.23828
+        }
+    },
+    "E": {
+        "count": 935,
+        "duration": {
+            "min": 0.185869,
+            "max": 3.503,
+            "std": 0.50604,
+            "var": 0.25607,
+            "mean": 0.62743
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 4,
+            "std": 0.80803,
+            "var": 0.65292,
+            "mean": 3.4631
+        },
+        "num_of_touches": {
+            "min": 14,
+            "max": 157,
+            "std": 14.80978,
+            "var": 219.32958,
+            "mean": 29.47487
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.10728,
+            "std": 0.17189,
+            "var": 0.02955,
+            "mean": 0.09965
+        }
+    },
+    "F": {
+        "count": 507,
+        "duration": {
+            "min": 0.14589,
+            "max": 4.772161,
+            "std": 0.53275,
+            "var": 0.28382,
+            "mean": 0.64426
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.47498,
+            "var": 0.22561,
+            "mean": 2.69034
+        },
+        "num_of_touches": {
+            "min": 10,
+            "max": 109,
+            "std": 14.78816,
+            "var": 218.68964,
+            "mean": 27.66075
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.60787,
+            "std": 0.24603,
+            "var": 0.06053,
+            "mean": 0.14145
+        }
+    },
+    "G": {
+        "count": 495,
+        "duration": {
+            "min": 0.220161,
+            "max": 3.421,
+            "std": 0.47416,
+            "var": 0.22483,
+            "mean": 0.65492
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.42133,
+            "var": 0.17752,
+            "mean": 1.21616
+        },
+        "num_of_touches": {
+            "min": 16,
+            "max": 158,
+            "std": 21.22123,
+            "var": 450.34072,
+            "mean": 36.77374
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.87534,
+            "std": 0.11709,
+            "var": 0.01371,
+            "mean": 0.05069
+        }
+    },
+    "H": {
+        "count": 502,
+        "duration": {
+            "min": 0.054788,
+            "max": 3.327,
+            "std": 0.46405,
+            "var": 0.21534,
+            "mean": 0.68276
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.54639,
+            "var": 0.29854,
+            "mean": 2.79482
+        },
+        "num_of_touches": {
+            "min": 6,
+            "max": 126,
+            "std": 15.6588,
+            "var": 245.19793,
+            "mean": 30.74502
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 1.087844,
+            "std": 0.11319,
+            "var": 0.01281,
+            "mean": 0.12226
+        }
+    },
+    "I": {
+        "count": 493,
+        "duration": {
+            "min": 0.03837,
+            "max": 3.210161,
+            "std": 0.39745,
+            "var": 0.15797,
+            "mean": 0.45393
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.93332,
+            "var": 0.87108,
+            "mean": 2.33266
+        },
+        "num_of_touches": {
+            "min": 5,
+            "max": 102,
+            "std": 12.0461,
+            "var": 145.10863,
+            "mean": 21.46247
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.705651,
+            "std": 0.1226,
+            "var": 0.01503,
+            "mean": 0.08721
+        }
+    },
+    "J": {
+        "count": 499,
+        "duration": {
+            "min": 0.140567,
+            "max": 4.270519,
+            "std": 0.51533,
+            "var": 0.26557,
+            "mean": 0.76577
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.29053,
+            "var": 0.08441,
+            "mean": 1.91182
+        },
+        "num_of_touches": {
+            "min": 11,
+            "max": 127,
+            "std": 12.92943,
+            "var": 167.17025,
+            "mean": 24.22846
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.532065,
+            "std": 0.50948,
+            "var": 0.25957,
+            "mean": 0.4053
+        }
+    },
+    "K": {
+        "count": 501,
+        "duration": {
+            "min": 0.252462,
+            "max": 4.144351,
+            "std": 0.49005,
+            "var": 0.24015,
+            "mean": 0.87774
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.35574,
+            "var": 0.12655,
+            "mean": 2.09581
+        },
+        "num_of_touches": {
+            "min": 16,
+            "max": 117,
+            "std": 15.2333,
+            "var": 232.0535,
+            "mean": 33.24551
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.382361,
+            "std": 0.41356,
+            "var": 0.17103,
+            "mean": 0.32852
+        }
+    },
+    "L": {
+        "count": 806,
+        "duration": {
+            "min": 0.044383,
+            "max": 1.413,
+            "std": 0.18621,
+            "var": 0.03467,
+            "mean": 0.26967
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.09913,
+            "var": 0.00983,
+            "mean": 1.00993
+        },
+        "num_of_touches": {
+            "min": 5,
+            "max": 70,
+            "std": 9.06145,
+            "var": 82.10983,
+            "mean": 17.59305
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 1.122308,
+            "std": 0.06791,
+            "var": 0.00461,
+            "mean": 0.00543
+        }
+    },
+    "M": {
+        "count": 500,
+        "duration": {
+            "min": 0.309928,
+            "max": 2.629,
+            "std": 0.39647,
+            "var": 0.15719,
+            "mean": 0.69736
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 4,
+            "std": 0.23714,
+            "var": 0.05624,
+            "mean": 1.042
+        },
+        "num_of_touches": {
+            "min": 21,
+            "max": 149,
+            "std": 21.13649,
+            "var": 446.75124,
+            "mean": 42.266
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.869144,
+            "std": 0.0573,
+            "var": 0.00328,
+            "mean": 0.00883
+        }
+    },
+    "N": {
+        "count": 478,
+        "duration": {
+            "min": 0.237747,
+            "max": 2.852816,
+            "std": 0.37059,
+            "var": 0.13734,
+            "mean": 0.62541
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.43431,
+            "var": 0.18862,
+            "mean": 1.13598
+        },
+        "num_of_touches": {
+            "min": 17,
+            "max": 140,
+            "std": 16.08444,
+            "var": 258.70918,
+            "mean": 35.93515
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.196851,
+            "std": 0.21456,
+            "var": 0.04604,
+            "mean": 0.04464
+        }
+    },
+    "O": {
+        "count": 1103,
+        "duration": {
+            "min": 0.050609,
+            "max": 1.747,
+            "std": 0.19187,
+            "var": 0.03682,
+            "mean": 0.34794
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.07367,
+            "var": 0.00543,
+            "mean": 1.00363
+        },
+        "num_of_touches": {
+            "min": 5,
+            "max": 105,
+            "std": 10.73714,
+            "var": 115.2861,
+            "mean": 23.09248
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.548,
+            "std": 0.0166,
+            "var": 0.00028,
+            "mean": 0.00059
+        }
+    },
+    "P": {
+        "count": 499,
+        "duration": {
+            "min": 0.201806,
+            "max": 4.270519,
+            "std": 0.40725,
+            "var": 0.16585,
+            "mean": 0.64872
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.49937,
+            "var": 0.24937,
+            "mean": 1.52505
+        },
+        "num_of_touches": {
+            "min": 15,
+            "max": 112,
+            "std": 13.47127,
+            "var": 181.47499,
+            "mean": 31.28657
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.338485,
+            "std": 0.32155,
+            "var": 0.1034,
+            "mean": 0.1634
+        }
+    },
+    "Q": {
+        "count": 495,
+        "duration": {
+            "min": 0.244568,
+            "max": 3.222,
+            "std": 0.53635,
+            "var": 0.28767,
+            "mean": 0.94078
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.36414,
+            "var": 0.1326,
+            "mean": 1.84848
+        },
+        "num_of_touches": {
+            "min": 17,
+            "max": 142,
+            "std": 18.42625,
+            "var": 339.52669,
+            "mean": 36.84242
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.329201,
+            "std": 0.45412,
+            "var": 0.20623,
+            "mean": 0.37456
+        }
+    },
+    "R": {
+        "count": 651,
+        "duration": {
+            "min": 0.220271,
+            "max": 3.337,
+            "std": 0.46497,
+            "var": 0.2162,
+            "mean": 0.71139
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.48367,
+            "var": 0.23394,
+            "mean": 1.34101
+        },
+        "num_of_touches": {
+            "min": 17,
+            "max": 158,
+            "std": 16.99981,
+            "var": 288.99346,
+            "mean": 35.50384
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.470959,
+            "std": 0.35472,
+            "var": 0.12583,
+            "mean": 0.15039
+        }
+    },
+    "S": {
+        "count": 501,
+        "duration": {
+            "min": 0.155915,
+            "max": 1.959,
+            "std": 0.23596,
+            "var": 0.05568,
+            "mean": 0.40362
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 12,
+            "max": 117,
+            "std": 13.22311,
+            "var": 174.85071,
+            "mean": 25.94012
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    "T": {
+        "count": 648,
+        "duration": {
+            "min": 0.058037,
+            "max": 3.707583,
+            "std": 0.42307,
+            "var": 0.17899,
+            "mean": 0.64892
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.05547,
+            "var": 0.00308,
+            "mean": 1.99691
+        },
+        "num_of_touches": {
+            "min": 6,
+            "max": 64,
+            "std": 8.69972,
+            "var": 75.68519,
+            "mean": 17.88889
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.141125,
+            "std": 0.40997,
+            "var": 0.16808,
+            "mean": 0.40491
+        }
+    },
+    "U": {
+        "count": 648,
+        "duration": {
+            "min": 0.206366,
+            "max": 2.003891,
+            "std": 0.24371,
+            "var": 0.0594,
+            "mean": 0.42466
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.11735,
+            "var": 0.01377,
+            "mean": 1.0108
+        },
+        "num_of_touches": {
+            "min": 13,
+            "max": 122,
+            "std": 12.21404,
+            "var": 149.18278,
+            "mean": 26.59259
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 1.019999,
+            "std": 0.0735,
+            "var": 0.0054,
+            "mean": 0.00696
+        }
+    },
+    "V": {
+        "count": 502,
+        "duration": {
+            "min": 0.10543,
+            "max": 1.328,
+            "std": 0.18957,
+            "var": 0.03594,
+            "mean": 0.32716
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.11726,
+            "var": 0.01375,
+            "mean": 1.01394
+        },
+        "num_of_touches": {
+            "min": 10,
+            "max": 78,
+            "std": 10.03504,
+            "var": 100.70207,
+            "mean": 21.05578
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.030786,
+            "std": 0.00298,
+            "var": 1e-05,
+            "mean": 0.00035
+        }
+    },
+    "W": {
+        "count": 503,
+        "duration": {
+            "min": 0.270498,
+            "max": 2.472,
+            "std": 0.33271,
+            "var": 0.1107,
+            "mean": 0.58221
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 4,
+            "std": 0.16607,
+            "var": 0.02758,
+            "mean": 1.0159
+        },
+        "num_of_touches": {
+            "min": 18,
+            "max": 121,
+            "std": 18.16489,
+            "var": 329.96329,
+            "mean": 36.13718
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.23,
+            "std": 0.01722,
+            "var": 0.0003,
+            "mean": 0.00175
+        }
+    },
+    "X": {
+        "count": 503,
+        "duration": {
+            "min": 0.101241,
+            "max": 4.772161,
+            "std": 0.49933,
+            "var": 0.24933,
+            "mean": 0.69847
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.04454,
+            "var": 0.00198,
+            "mean": 1.99801
+        },
+        "num_of_touches": {
+            "min": 9,
+            "max": 98,
+            "std": 10.50658,
+            "var": 110.38822,
+            "mean": 20.15905
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.990495,
+            "std": 0.48857,
+            "var": 0.2387,
+            "mean": 0.41115
+        }
+    },
+    "Y": {
+        "count": 485,
+        "duration": {
+            "min": 0.088595,
+            "max": 3.476282,
+            "std": 0.42256,
+            "var": 0.17856,
+            "mean": 0.64448
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.35175,
+            "var": 0.12373,
+            "mean": 1.90928
+        },
+        "num_of_touches": {
+            "min": 9,
+            "max": 91,
+            "std": 13.29543,
+            "var": 176.76839,
+            "mean": 22.61649
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.9212,
+            "std": 0.38561,
+            "var": 0.1487,
+            "mean": 0.29977
+        }
+    },
+    "Z": {
+        "count": 502,
+        "duration": {
+            "min": 0.1573,
+            "max": 2.589,
+            "std": 0.32457,
+            "var": 0.10535,
+            "mean": 0.49023
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.42279,
+            "var": 0.17875,
+            "mean": 1.23307
+        },
+        "num_of_touches": {
+            "min": 12,
+            "max": 113,
+            "std": 14.58873,
+            "var": 212.83105,
+            "mean": 27.84661
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.956229,
+            "std": 0.12084,
+            "var": 0.0146,
+            "mean": 0.04506
+        }
+    },
+    "a": {
+        "count": 1665,
+        "duration": {
+            "min": 0.218051,
+            "max": 3.117,
+            "std": 0.26078,
+            "var": 0.06801,
+            "mean": 0.44281
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.16733,
+            "var": 0.028,
+            "mean": 1.02883
+        },
+        "num_of_touches": {
+            "min": 10,
+            "max": 172,
+            "std": 13.88936,
+            "var": 192.91435,
+            "mean": 26.58438
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.622713,
+            "std": 0.03695,
+            "var": 0.00137,
+            "mean": 0.00551
+        }
+    },
+    "b": {
+        "count": 807,
+        "duration": {
+            "min": 0.169703,
+            "max": 2.847,
+            "std": 0.29229,
+            "var": 0.08543,
+            "mean": 0.53429
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.30376,
+            "var": 0.09227,
+            "mean": 1.10285
+        },
+        "num_of_touches": {
+            "min": 13,
+            "max": 162,
+            "std": 15.57803,
+            "var": 242.67499,
+            "mean": 31.43866
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.368,
+            "std": 0.047,
+            "var": 0.00221,
+            "mean": 0.01439
+        }
+    },
+    "c": {
+        "count": 691,
+        "duration": {
+            "min": 0.057544,
+            "max": 1.371,
+            "std": 0.14508,
+            "var": 0.02105,
+            "mean": 0.24044
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.03801,
+            "var": 0.00145,
+            "mean": 1.00145
+        },
+        "num_of_touches": {
+            "min": 6,
+            "max": 78,
+            "std": 7.61463,
+            "var": 57.98266,
+            "mean": 15.23444
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.083237,
+            "std": 0.00316,
+            "var": 1e-05,
+            "mean": 0.00012
+        }
+    },
+    "d": {
+        "count": 1126,
+        "duration": {
+            "min": 0.157372,
+            "max": 3.671225,
+            "std": 0.3073,
+            "var": 0.09443,
+            "mean": 0.51947
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.23821,
+            "var": 0.05674,
+            "mean": 1.06039
+        },
+        "num_of_touches": {
+            "min": 12,
+            "max": 137,
+            "std": 14.75205,
+            "var": 217.62289,
+            "mean": 30.74956
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.884746,
+            "std": 0.12518,
+            "var": 0.01567,
+            "mean": 0.01574
+        }
+    },
+    "e": {
+        "count": 2402,
+        "duration": {
+            "min": 0.147137,
+            "max": 2.14,
+            "std": 0.15205,
+            "var": 0.02312,
+            "mean": 0.35195
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 4,
+            "std": 0.11705,
+            "var": 0.0137,
+            "mean": 1.00624
+        },
+        "num_of_touches": {
+            "min": 12,
+            "max": 123,
+            "std": 8.08877,
+            "var": 65.42826,
+            "mean": 21.08493
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.758705,
+            "std": 0.02062,
+            "var": 0.00043,
+            "mean": 0.00121
+        }
+    },
+    "f": {
+        "count": 995,
+        "duration": {
+            "min": 0.130042,
+            "max": 4.545894,
+            "std": 0.38367,
+            "var": 0.1472,
+            "mean": 0.6309
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.24635,
+            "var": 0.06069,
+            "mean": 1.94874
+        },
+        "num_of_touches": {
+            "min": 8,
+            "max": 111,
+            "std": 11.85555,
+            "var": 140.55418,
+            "mean": 24.86332
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.478853,
+            "std": 0.32799,
+            "var": 0.10758,
+            "mean": 0.22447
+        }
+    },
+    "g": {
+        "count": 696,
+        "duration": {
+            "min": 0.283644,
+            "max": 2.969,
+            "std": 0.34787,
+            "var": 0.12101,
+            "mean": 0.58784
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.19983,
+            "var": 0.03993,
+            "mean": 1.04167
+        },
+        "num_of_touches": {
+            "min": 19,
+            "max": 169,
+            "std": 18.18145,
+            "var": 330.56513,
+            "mean": 35.16379
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.571,
+            "std": 0.05516,
+            "var": 0.00304,
+            "mean": 0.01039
+        }
+    },
+    "h": {
+        "count": 1255,
+        "duration": {
+            "min": 0.093864,
+            "max": 2.492,
+            "std": 0.23284,
+            "var": 0.05421,
+            "mean": 0.42139
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.26064,
+            "var": 0.06793,
+            "mean": 1.07331
+        },
+        "num_of_touches": {
+            "min": 9,
+            "max": 119,
+            "std": 10.33424,
+            "var": 106.79646,
+            "mean": 24.31235
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.798051,
+            "std": 0.06597,
+            "var": 0.00435,
+            "mean": 0.01561
+        }
+    },
+    "i": {
+        "count": 973,
+        "duration": {
+            "min": 0.025003,
+            "max": 4.616151,
+            "std": 0.43529,
+            "var": 0.18948,
+            "mean": 0.44194
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.29402,
+            "var": 0.08645,
+            "mean": 1.90442
+        },
+        "num_of_touches": {
+            "min": 4,
+            "max": 46,
+            "std": 5.25441,
+            "var": 27.60883,
+            "mean": 11.45632
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.988654,
+            "std": 0.42578,
+            "var": 0.18129,
+            "mean": 0.24453
+        }
+    },
+    "j": {
+        "count": 593,
+        "duration": {
+            "min": 0.068863,
+            "max": 3.996625,
+            "std": 0.4922,
+            "var": 0.24226,
+            "mean": 0.64623
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.2675,
+            "var": 0.07155,
+            "mean": 1.92243
+        },
+        "num_of_touches": {
+            "min": 6,
+            "max": 108,
+            "std": 9.23166,
+            "var": 85.2236,
+            "mean": 19.63406
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.174588,
+            "std": 0.46325,
+            "var": 0.2146,
+            "mean": 0.33369
+        }
+    },
+    "k": {
+        "count": 597,
+        "duration": {
+            "min": 0.209,
+            "max": 2.712318,
+            "std": 0.40318,
+            "var": 0.16255,
+            "mean": 0.74251
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.30285,
+            "var": 0.09172,
+            "mean": 1.9263
+        },
+        "num_of_touches": {
+            "min": 13,
+            "max": 106,
+            "std": 12.28637,
+            "var": 150.95493,
+            "mean": 28.40704
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 2.124108,
+            "std": 0.37246,
+            "var": 0.13873,
+            "mean": 0.29319
+        }
+    },
+    "l": {
+        "count": 1296,
+        "duration": {
+            "min": 0.058719,
+            "max": 2.142,
+            "std": 0.16961,
+            "var": 0.02877,
+            "mean": 0.2155
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.02777,
+            "var": 0.00077,
+            "mean": 1.00077
+        },
+        "num_of_touches": {
+            "min": 6,
+            "max": 97,
+            "std": 8.14558,
+            "var": 66.35039,
+            "mean": 13.44522
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.258,
+            "std": 0.00716,
+            "var": 5e-05,
+            "mean": 0.0002
+        }
+    },
+    "m": {
+        "count": 779,
+        "duration": {
+            "min": 0.216007,
+            "max": 3.101,
+            "std": 0.31824,
+            "var": 0.10128,
+            "mean": 0.59159
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.15891,
+            "var": 0.02525,
+            "mean": 1.02054
+        },
+        "num_of_touches": {
+            "min": 16,
+            "max": 173,
+            "std": 16.3564,
+            "var": 267.53198,
+            "mean": 34.87805
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.867503,
+            "std": 0.03927,
+            "var": 0.00154,
+            "mean": 0.0042
+        }
+    },
+    "n": {
+        "count": 1284,
+        "duration": {
+            "min": 0.146349,
+            "max": 3.353,
+            "std": 0.25069,
+            "var": 0.06285,
+            "mean": 0.40151
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.10011,
+            "var": 0.01002,
+            "mean": 1.01012
+        },
+        "num_of_touches": {
+            "min": 11,
+            "max": 177,
+            "std": 12.96296,
+            "var": 168.03835,
+            "mean": 23.3824
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.521,
+            "std": 0.01979,
+            "var": 0.00039,
+            "mean": 0.00159
+        }
+    },
+    "o": {
+        "count": 2258,
+        "duration": {
+            "min": 0.147389,
+            "max": 1.764,
+            "std": 0.11962,
+            "var": 0.01431,
+            "mean": 0.32131
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.02104,
+            "var": 0.00044,
+            "mean": 1.00044
+        },
+        "num_of_touches": {
+            "min": 11,
+            "max": 105,
+            "std": 6.70763,
+            "var": 44.99236,
+            "mean": 20.0899
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.228,
+            "std": 0.0048,
+            "var": 2e-05,
+            "mean": 0.0001
+        }
+    },
+    "p": {
+        "count": 786,
+        "duration": {
+            "min": 0.185451,
+            "max": 1.95,
+            "std": 0.24358,
+            "var": 0.05933,
+            "mean": 0.53678
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.42956,
+            "var": 0.18452,
+            "mean": 1.23919
+        },
+        "num_of_touches": {
+            "min": 14,
+            "max": 115,
+            "std": 9.39191,
+            "var": 88.20806,
+            "mean": 28.94402
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 1.270292,
+            "std": 0.18243,
+            "var": 0.03328,
+            "mean": 0.06729
+        }
+    },
+    "q": {
+        "count": 602,
+        "duration": {
+            "min": 0.307833,
+            "max": 2.965,
+            "std": 0.32981,
+            "var": 0.10877,
+            "mean": 0.60275
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.22511,
+            "var": 0.05067,
+            "mean": 1.04983
+        },
+        "num_of_touches": {
+            "min": 20,
+            "max": 124,
+            "std": 15.52299,
+            "var": 240.96328,
+            "mean": 35.98671
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 1.781666,
+            "std": 0.10258,
+            "var": 0.01052,
+            "mean": 0.01374
+        }
+    },
+    "r": {
+        "count": 1490,
+        "duration": {
+            "min": 0.037483,
+            "max": 2.269,
+            "std": 0.19062,
+            "var": 0.03634,
+            "mean": 0.31134
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.181,
+            "var": 0.03276,
+            "mean": 1.02819
+        },
+        "num_of_touches": {
+            "min": 6,
+            "max": 88,
+            "std": 8.31664,
+            "var": 69.16653,
+            "mean": 17.74899
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.866,
+            "std": 0.05695,
+            "var": 0.00324,
+            "mean": 0.00853
+        }
+    },
+    "s": {
+        "count": 592,
+        "duration": {
+            "min": 0.142125,
+            "max": 1.068,
+            "std": 0.16298,
+            "var": 0.02656,
+            "mean": 0.33193
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 10,
+            "max": 63,
+            "std": 8.87902,
+            "var": 78.83691,
+            "mean": 21.03041
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    "t": {
+        "count": 1935,
+        "duration": {
+            "min": 0.157,
+            "max": 3.759537,
+            "std": 0.29663,
+            "var": 0.08799,
+            "mean": 0.54517
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.07851,
+            "var": 0.00616,
+            "mean": 1.9938
+        },
+        "num_of_touches": {
+            "min": 9,
+            "max": 86,
+            "std": 7.32068,
+            "var": 53.59238,
+            "mean": 19.98036
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.019823,
+            "std": 0.27521,
+            "var": 0.07574,
+            "mean": 0.21042
+        }
+    },
+    "u": {
+        "count": 1132,
+        "duration": {
+            "min": 0.134094,
+            "max": 2.176,
+            "std": 0.17388,
+            "var": 0.03024,
+            "mean": 0.36536
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.07839,
+            "var": 0.00615,
+            "mean": 1.00618
+        },
+        "num_of_touches": {
+            "min": 6,
+            "max": 109,
+            "std": 8.93352,
+            "var": 79.80774,
+            "mean": 22.14753
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.22,
+            "std": 0.01258,
+            "var": 0.00016,
+            "mean": 0.0009
+        }
+    },
+    "v": {
+        "count": 701,
+        "duration": {
+            "min": 0.103762,
+            "max": 1.035611,
+            "std": 0.11402,
+            "var": 0.013,
+            "mean": 0.26041
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 1,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 1.0
+        },
+        "num_of_touches": {
+            "min": 8,
+            "max": 63,
+            "std": 5.89328,
+            "var": 34.73079,
+            "mean": 16.29672
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.0,
+            "std": 0.0,
+            "var": 0.0,
+            "mean": 0.0
+        }
+    },
+    "w": {
+        "count": 890,
+        "duration": {
+            "min": 0.222761,
+            "max": 2.239,
+            "std": 0.22496,
+            "var": 0.05061,
+            "mean": 0.48382
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.0335,
+            "var": 0.00112,
+            "mean": 1.00112
+        },
+        "num_of_touches": {
+            "min": 16,
+            "max": 120,
+            "std": 11.8788,
+            "var": 141.10583,
+            "mean": 29.20337
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.229,
+            "std": 0.00767,
+            "var": 6e-05,
+            "mean": 0.00026
+        }
+    },
+    "x": {
+        "count": 599,
+        "duration": {
+            "min": 0.07219,
+            "max": 4.545894,
+            "std": 0.47279,
+            "var": 0.22353,
+            "mean": 0.59414
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 3,
+            "std": 0.09123,
+            "var": 0.00832,
+            "mean": 1.99499
+        },
+        "num_of_touches": {
+            "min": 7,
+            "max": 71,
+            "std": 7.27252,
+            "var": 52.88962,
+            "mean": 17.71953
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 3.854969,
+            "std": 0.47442,
+            "var": 0.22507,
+            "mean": 0.33285
+        }
+    },
+    "y": {
+        "count": 722,
+        "duration": {
+            "min": 0.227789,
+            "max": 2.25,
+            "std": 0.22416,
+            "var": 0.05025,
+            "mean": 0.47779
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.34251,
+            "var": 0.11731,
+            "mean": 1.13573
+        },
+        "num_of_touches": {
+            "min": 11,
+            "max": 106,
+            "std": 10.57,
+            "var": 111.72486,
+            "mean": 27.41551
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.919301,
+            "std": 0.07275,
+            "var": 0.00529,
+            "mean": 0.02346
+        }
+    },
+    "z": {
+        "count": 702,
+        "duration": {
+            "min": 0.128279,
+            "max": 1.820328,
+            "std": 0.24399,
+            "var": 0.05953,
+            "mean": 0.40228
+        },
+        "num_of_strokes": {
+            "min": 1,
+            "max": 2,
+            "std": 0.37395,
+            "var": 0.13984,
+            "mean": 1.16809
+        },
+        "num_of_touches": {
+            "min": 11,
+            "max": 106,
+            "std": 10.90558,
+            "var": 118.93162,
+            "mean": 22.849
+        },
+        "strokes_delay": {
+            "min": 0.0,
+            "max": 0.936348,
+            "std": 0.07197,
+            "var": 0.00518,
+            "mean": 0.02654
+        }
+    }
+}

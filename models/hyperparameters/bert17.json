@@ -1,0 +1,1 @@
+{"enc_heads": 4, "enc_layers": 5, "enc_dropout": 0.1, "bos_idx": 101, "eos_idx": 102, "n_tokens": 28996, "hid_dim": 128, "trg_pad_idx": 0, "vector_size": 128, "src_pad_idx": -5, "enc_pf_dim": 128, "n_features": 2, "enc_max_length": 200, "dec_max_length": 100, "dec_heads": 4, "vocab": null}

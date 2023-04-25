@@ -1,0 +1,36 @@
+import torch
+from enum import Enum
+
+DB_PATH = "aug_unified_schema.db"
+VECTOR_SIZE = 128
+N_FEATURES = 2
+EOS_IDX = 3
+BOS_IDX = 2
+TRG_PAD_IDX = 1
+SRC_PAD_IDX = -5
+DECODER_OUTPUT_LENGTH = 100
+ENCODER_INPUT_LENGTH = 200
+ENC_DROPOUT = 0.1
+DEC_DROPOUT = 0.1
+ENC_HEADS = 4
+DEC_HEADS = 4
+ENC_LAYERS = 5
+DEC_LAYERS = 4
+HID_DIM = VECTOR_SIZE
+MLP_HIDDEN_UNITS = 512
+ENC_PF_DIM = VECTOR_SIZE
+DEC_PF_DIM = VECTOR_SIZE
+N_CONV_LAYERS = 2
+TRAINABLE_ALPHA_SCALING = False
+DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+UNK_SPLIT = 0.6
+VOCABULARY_SIZE = 2000
+
+
+# DEFAULT LANGUAGE TO USE
+class Languages(Enum):
+    UNK = 0
+    EN = 1
+    DE = 2
+    FR = 3
+    IT = 4
